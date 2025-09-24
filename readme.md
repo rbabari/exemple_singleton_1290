@@ -1,5 +1,5 @@
 # Desing pattern Singleton 
-
+c'est un exemple d'implementation du design pattern Singleton
 
 ```mermaid
 classDiagram
@@ -13,5 +13,4 @@ class Singleton {
   - Singleton instance
   + getInstance() Singleton
 }
-
 ```
